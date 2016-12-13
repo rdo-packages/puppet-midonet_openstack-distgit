@@ -2,4 +2,4 @@
 host=review.rdoproject.org
 port=29418
 project=puppet/puppet-midonet_openstack-distgit
-defaultbranch=master
+defaultbranch=rpm-master
