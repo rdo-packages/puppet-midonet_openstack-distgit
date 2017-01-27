@@ -4,7 +4,7 @@ Name:                   puppet-midonet_openstack
 Version:                1.0.0
 Release:                1%{?dist}
 Summary:                Define profiles and roles to deploy MidoNet with OpenStack
-License:                Apache-2.0
+License:                ASL 2.0
 
 URL:                    https://github.com/midonet/puppet-midonet_openstack
 
